@@ -1,0 +1,17 @@
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/obj/Debug/net7.0/BlackFinch.BusinessLogic.csproj.AssemblyReference.cache
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/obj/Debug/net7.0/BlackFinch.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/obj/Debug/net7.0/BlackFinch.BusinessLogic.AssemblyInfoInputs.cache
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/obj/Debug/net7.0/BlackFinch.BusinessLogic.AssemblyInfo.cs
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/obj/Debug/net7.0/BlackFinch.BusinessLogic.csproj.CoreCompileInputs.cache
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/bin/Debug/net7.0/BlackFinch.BusinessLogic.deps.json
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/bin/Debug/net7.0/BlackFinch.BusinessLogic.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/bin/Debug/net7.0/BlackFinch.BusinessLogic.pdb
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/bin/Debug/net7.0/BlackFinch.IBusinessLogic.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/bin/Debug/net7.0/BlackFinch.Models.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/bin/Debug/net7.0/BlackFinch.IBusinessLogic.pdb
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/bin/Debug/net7.0/BlackFinch.Models.pdb
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/obj/Debug/net7.0/BlackFinch.BusinessLogic.csproj.CopyComplete
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/obj/Debug/net7.0/BlackFinch.BusinessLogic.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/obj/Debug/net7.0/refint/BlackFinch.BusinessLogic.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/obj/Debug/net7.0/BlackFinch.BusinessLogic.pdb
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/obj/Debug/net7.0/ref/BlackFinch.BusinessLogic.dll

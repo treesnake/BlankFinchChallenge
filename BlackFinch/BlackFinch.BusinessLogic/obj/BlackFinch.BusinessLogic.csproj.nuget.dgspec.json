@@ -1,0 +1,178 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/BlackFinch.BusinessLogic.csproj": {}
+  },
+  "projects": {
+    "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/BlackFinch.BusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/BlackFinch.BusinessLogic.csproj",
+        "projectName": "BlackFinch.BusinessLogic",
+        "projectPath": "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/BlackFinch.BusinessLogic.csproj",
+        "packagesPath": "/Users/davidbattersby/.nuget/packages/",
+        "outputPath": "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.BusinessLogic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/davidbattersby/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/BlackFinch.IBusinessLogic.csproj": {
+                "projectPath": "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/BlackFinch.IBusinessLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/BlackFinch.IBusinessLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/BlackFinch.IBusinessLogic.csproj",
+        "projectName": "BlackFinch.IBusinessLogic",
+        "projectPath": "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/BlackFinch.IBusinessLogic.csproj",
+        "packagesPath": "/Users/davidbattersby/.nuget/packages/",
+        "outputPath": "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/davidbattersby/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/BlackFinch.Models.csproj": {
+                "projectPath": "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/BlackFinch.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/BlackFinch.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/BlackFinch.Models.csproj",
+        "projectName": "BlackFinch.Models",
+        "projectPath": "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/BlackFinch.Models.csproj",
+        "packagesPath": "/Users/davidbattersby/.nuget/packages/",
+        "outputPath": "/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/davidbattersby/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

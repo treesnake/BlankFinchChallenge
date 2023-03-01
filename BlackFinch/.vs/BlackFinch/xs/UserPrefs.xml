@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{65DE01D8-62C4-4E70-B02A-C15C8B81E162}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.BlackFinch.IPersistance FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlackFinch.Models/Class1.cs">
+    <Files>
+      <File FileName="BlackFinch.ConsoleApp/Program.cs" Line="1" Column="1" />
+      <File FileName="BlackFinch.Models/Class1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlackFinch" expanded="True">
+            <Node name="BlackFinch.ConsoleApp" selected="True" />
+            <Node name="BlackFinch.Models" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BlackFinch.Persistance FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BlackFinch.ConsoleApp PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+</Properties>

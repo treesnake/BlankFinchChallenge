@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BlackFinch.Persistance\BlackFinch.Persistance.csproj" />
+    <ProjectReference Include="..\BlackFinch.Models\BlackFinch.Models.csproj" />
+    <ProjectReference Include="..\BlackFinch.IPersistance\BlackFinch.IPersistance.csproj" />
+    <ProjectReference Include="..\BlackFinch.IBusinessLogic\BlackFinch.IBusinessLogic.csproj" />
+    <ProjectReference Include="..\BlackFinch.BusinessLogic\BlackFinch.BusinessLogic.csproj" />
+  </ItemGroup>
+</Project>

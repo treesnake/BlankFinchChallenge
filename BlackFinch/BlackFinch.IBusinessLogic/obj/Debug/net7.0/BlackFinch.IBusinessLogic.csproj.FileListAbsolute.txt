@@ -1,0 +1,15 @@
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/bin/Debug/net7.0/BlackFinch.IBusinessLogic.deps.json
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/bin/Debug/net7.0/BlackFinch.IBusinessLogic.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/bin/Debug/net7.0/BlackFinch.IBusinessLogic.pdb
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/bin/Debug/net7.0/BlackFinch.Models.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/bin/Debug/net7.0/BlackFinch.Models.pdb
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/obj/Debug/net7.0/BlackFinch.IBusinessLogic.csproj.AssemblyReference.cache
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/obj/Debug/net7.0/BlackFinch.IBusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/obj/Debug/net7.0/BlackFinch.IBusinessLogic.AssemblyInfoInputs.cache
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/obj/Debug/net7.0/BlackFinch.IBusinessLogic.AssemblyInfo.cs
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/obj/Debug/net7.0/BlackFinch.IBusinessLogic.csproj.CoreCompileInputs.cache
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/obj/Debug/net7.0/BlackFinch.IBusinessLogic.csproj.CopyComplete
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/obj/Debug/net7.0/BlackFinch.IBusinessLogic.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/obj/Debug/net7.0/refint/BlackFinch.IBusinessLogic.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/obj/Debug/net7.0/BlackFinch.IBusinessLogic.pdb
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.IBusinessLogic/obj/Debug/net7.0/ref/BlackFinch.IBusinessLogic.dll

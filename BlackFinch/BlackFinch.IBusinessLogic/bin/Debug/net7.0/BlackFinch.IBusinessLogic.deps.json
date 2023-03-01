@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BlackFinch.IBusinessLogic/1.0.0": {
+        "dependencies": {
+          "BlackFinch.Models": "1.0.0"
+        },
+        "runtime": {
+          "BlackFinch.IBusinessLogic.dll": {}
+        }
+      },
+      "BlackFinch.Models/1.0.0": {
+        "runtime": {
+          "BlackFinch.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlackFinch.IBusinessLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlackFinch.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

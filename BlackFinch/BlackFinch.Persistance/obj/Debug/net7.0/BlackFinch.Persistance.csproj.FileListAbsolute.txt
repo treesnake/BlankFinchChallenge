@@ -1,0 +1,17 @@
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/bin/Debug/net7.0/BlackFinch.Persistance.deps.json
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/bin/Debug/net7.0/BlackFinch.Persistance.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/bin/Debug/net7.0/BlackFinch.Persistance.pdb
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/bin/Debug/net7.0/BlackFinch.IPersistance.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/bin/Debug/net7.0/BlackFinch.Models.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/bin/Debug/net7.0/BlackFinch.IPersistance.pdb
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/bin/Debug/net7.0/BlackFinch.Models.pdb
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/obj/Debug/net7.0/BlackFinch.Persistance.csproj.AssemblyReference.cache
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/obj/Debug/net7.0/BlackFinch.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/obj/Debug/net7.0/BlackFinch.Persistance.AssemblyInfoInputs.cache
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/obj/Debug/net7.0/BlackFinch.Persistance.AssemblyInfo.cs
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/obj/Debug/net7.0/BlackFinch.Persistance.csproj.CoreCompileInputs.cache
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/obj/Debug/net7.0/BlackFinch.Persistance.csproj.CopyComplete
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/obj/Debug/net7.0/BlackFinch.Persistance.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/obj/Debug/net7.0/refint/BlackFinch.Persistance.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/obj/Debug/net7.0/BlackFinch.Persistance.pdb
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Persistance/obj/Debug/net7.0/ref/BlackFinch.Persistance.dll

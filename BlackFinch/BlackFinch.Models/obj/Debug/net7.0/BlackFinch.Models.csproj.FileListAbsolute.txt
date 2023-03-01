@@ -1,0 +1,12 @@
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/obj/Debug/net7.0/BlackFinch.Models.csproj.AssemblyReference.cache
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/obj/Debug/net7.0/BlackFinch.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/obj/Debug/net7.0/BlackFinch.Models.AssemblyInfoInputs.cache
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/obj/Debug/net7.0/BlackFinch.Models.AssemblyInfo.cs
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/obj/Debug/net7.0/BlackFinch.Models.csproj.CoreCompileInputs.cache
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/bin/Debug/net7.0/BlackFinch.Models.deps.json
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/bin/Debug/net7.0/BlackFinch.Models.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/bin/Debug/net7.0/BlackFinch.Models.pdb
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/obj/Debug/net7.0/BlackFinch.Models.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/obj/Debug/net7.0/refint/BlackFinch.Models.dll
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/obj/Debug/net7.0/BlackFinch.Models.pdb
+/Users/davidbattersby/Projects/BlackFinch/BlackFinch.Models/obj/Debug/net7.0/ref/BlackFinch.Models.dll
